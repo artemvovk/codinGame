@@ -1,7 +1,9 @@
 # codinGame
-## by Artem Vovk
+by Artem Vovk
+
 ### The Big Idea
 I want to practice solving puzzles and implementing algorithms using different languages.
+
 ### Description
 - I will be adding the code that I used for codinGame (https://www.codingame.com/games).
 - The code is just copied from the in-game IDE
